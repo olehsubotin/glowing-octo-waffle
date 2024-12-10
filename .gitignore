@@ -6,9 +6,9 @@ npm-debug.log*
 # Dependency directories
 node_modules/
 
-# Build directories
+# Parcel cache and build output
+.cache/
 dist/
-build/
 
 # System files
 .DS_Store
