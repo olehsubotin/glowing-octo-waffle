@@ -7,3 +7,6 @@ This project is a personal exercise to revisit and strengthen my skills in HTML 
 - Responsive design
 - Semantic HTML
 - Clean, well-organized CSS
+
+## Status
+This project is complete and will not receive further updates.
