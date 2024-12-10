@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files and folders
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+
+# Coverage directory
+coverage/
+
+# Other config artifacts
+*.lock
